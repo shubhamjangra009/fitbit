@@ -1,6 +1,6 @@
 # Fitbit Project
 PrepInsta Internship - Project 8
-### Final Dashboard Link: https://public.tableau.com/app/profile/shubham.jangra/viz/fitbit_17073432639770/MainDashboard
+##### Final Dashboard Link: https://public.tableau.com/app/profile/shubham.jangra/viz/fitbit_17073432639770/MainDashboard
 ## How to go through project:
 1) You can download final tableau workbook file from repository(or you download the .twbx file from tableau public site).
 2) 'Fitbit Dataset Info.docx' is the project info file.
